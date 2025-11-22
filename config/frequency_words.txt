@@ -1,29 +1,10 @@
-微软
-Microsoft
-英伟达
-NVIDIA
-黄仁勋
-AMD
-
-谷歌
-google
-gemini
-deepmind
-DeepSeek
-chatgpt
-openai
-sora
-claude
-Anthropic
-
-中国
-美国
-日本
-韩国
-!明星
-!主播
-
-科技
+伊朗
+伊拉克
+也门
+波斯湾
+巴勒斯坦
+加沙
+!石油
 
 官方
 中央
@@ -34,26 +15,20 @@ Anthropic
 中国石油
 中海油
 
-争议
-热议
-对立
-!明星
-!娱乐
-!电视剧
-!电影
-
 乒乓球
 国乒
 !王楚钦
 !头
 
-伊朗
-伊拉克
-也门
-波斯湾
-巴勒斯坦
-加沙
-!石油
+微软
+Microsoft
+谷歌
+google
+gemini
+openai
+sora
+Anthropic
+
 
 南美
 委内瑞拉
@@ -61,4 +36,17 @@ Anthropic
 !节
 !足球
 
+中国
+美国
+日本
+韩国
+!明星
+!主播
 
+争议
+热议
+对立
+!明星
+!娱乐
+!电视剧
+!电影
